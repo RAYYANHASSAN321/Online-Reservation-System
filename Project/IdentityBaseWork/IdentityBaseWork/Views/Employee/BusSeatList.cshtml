@@ -1,0 +1,39 @@
+﻿@model IEnumerable<IdentityBaseWork.Models.BusSeat>
+
+@{
+    ViewData["Title"] = "BusSeatList";
+    Layout = "~/Views/Shared/_Layoutemp.cshtml";
+}
+
+<h1>BusSeatList</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SeatNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsAvailable)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SeatNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsAvailable)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bus.BusNumber)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

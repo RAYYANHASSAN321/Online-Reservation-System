@@ -1,0 +1,87 @@
+﻿@model IEnumerable<IdentityBaseWork.Models.Bus>
+
+@{
+    ViewData["Title"] = "Bus_List";
+    Layout = "~/Views/Shared/_Layoutdb.cshtml";
+}
+
+<h1>Bus_List</h1>
+
+<p>
+    <a asp-action="AddBus">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BusNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BusType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalSeatNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartureTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ArrivalTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PriceFactor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BusProImg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Route)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BusNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BusType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalSeatNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartureTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArrivalTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceFactor)
+            </td>
+             <td>
+                <img src="~/Content/Images/@item.BusImgName" asp-append-version="true" width="50" height="50" />
+             </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Route.StartingLocation) - @Html.DisplayFor(modelItem => item.Route.DestinationLocation)
+            </td>
+            <td>
+                    <form asp-action="BusEdit" asp-route-id="@item.BusID" method="get" style="display:inline;">
+                        <button type="submit" class="btn btn-warning">Edit</button>
+                    </form>
+                    
+                    <form asp-action="Bus_Details" asp-route-id="@item.BusID" method="get" style="display:inline;">
+                        <button type="submit" class="btn btn-primary">Details</button>
+                    </form>
+                    
+                    <form asp-action="BusDelete" asp-route-id="@item.BusID" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

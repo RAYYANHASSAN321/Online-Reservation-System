@@ -1,0 +1,72 @@
+﻿@model IdentityBaseWork.Models.Bus
+
+@{
+    ViewData["Title"] = "AddBus";
+    Layout = "~/Views/Shared/_Layoutdb.cshtml";
+}
+
+<h1>AddBus</h1>
+
+<h4>Bus</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddBus" asp-controller="admin" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="BusNumber" class="control-label"></label>
+                <input asp-for="BusNumber" class="form-control" />
+                <span asp-validation-for="BusNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BusType" class="control-label"></label>
+                <input asp-for="BusType" class="form-control" />
+                <span asp-validation-for="BusType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalSeatNumber" class="control-label"></label>
+                <input asp-for="TotalSeatNumber" class="form-control" />
+                <span asp-validation-for="TotalSeatNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DepartureTime" class="control-label"></label>
+                <input asp-for="DepartureTime" class="form-control" />
+                <span asp-validation-for="DepartureTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ArrivalTime" class="control-label"></label>
+                <input asp-for="ArrivalTime" class="form-control" />
+                <span asp-validation-for="ArrivalTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PriceFactor" class="control-label"></label>
+                <input asp-for="PriceFactor" class="form-control" />
+                <span asp-validation-for="PriceFactor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BusProImg" class="control-label"></label>
+                <input asp-for="BusProImg" class="form-control" />
+                <span asp-validation-for="BusImgName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RouteID" class="control-label"></label>
+                <select asp-for="RouteID" class ="form-control">
+                    <option disabled selected>Select Route</option>
+                    @foreach (var item in ViewBag.Rou)
+                    {
+                        <option value="@item.RouteID">@item.StartingLocation - @item.DestinationLocation</option>
+                    }
+                </select>
+                <span asp-validation-for="RouteID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Bus_List">Back to List</a>
+</div>
+

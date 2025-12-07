@@ -1,0 +1,46 @@
+﻿@model IdentityBaseWork.Models.Routes
+
+@{
+    ViewData["Title"] = "AddRoutes";
+    Layout = "~/Views/Shared/_Layoutdb.cshtml";
+}
+
+
+<h1>AddRoutes</h1>
+
+<h4>Route</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddRoutes" asp-controller="Admin" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="StartingLocation" class="control-label"></label>
+                <input asp-for="StartingLocation" class="form-control" />
+                <span asp-validation-for="StartingLocation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DestinationLocation" class="control-label"></label>
+                <input asp-for="DestinationLocation" class="form-control" />
+                <span asp-validation-for="DestinationLocation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Distance" class="control-label"></label>
+                <input asp-for="Distance" class="form-control" />
+                <span asp-validation-for="Distance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TravelTime" class="control-label"></label>
+                <input asp-for="TravelTime" class="form-control" />
+                <span asp-validation-for="TravelTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="routes_List">Back to List</a>
+</div>

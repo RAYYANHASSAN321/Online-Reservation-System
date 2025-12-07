@@ -1,0 +1,77 @@
+﻿@model IEnumerable<IdentityBaseWork.Models.Booking>
+
+@{
+    ViewData["Title"] = "BookingList";
+    Layout = "~/Views/Shared/_Layoutdb.cshtml";
+}
+
+<h1>BookingList</h1>
+
+<p>
+    <a asp-action="AddSBooking">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TravelDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SeatNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.appuser)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AgeGroup)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookingDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TravelDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SeatNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.appuser.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bus.BusNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AgeGroup.GroupName)
+            </td>
+            <td>    
+                    <form asp-action="Book_Details" asp-route-id="@item.BookingID" method="get" style="display:inline;">
+                        <button type="submit" class="btn btn-primary">Details</button>
+                    </form>
+                    
+                    <form asp-action="Booking_Delete" asp-route-id="@item.BookingID" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

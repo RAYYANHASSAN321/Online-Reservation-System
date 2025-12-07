@@ -1,0 +1,63 @@
+﻿@model IEnumerable<IdentityBaseWork.Models.Routes>
+
+@{
+    ViewData["Title"] = "routes_List";
+    Layout = "~/Views/Shared/_Layoutdb.cshtml";
+}
+
+<h1>routes_List</h1>
+
+<p>
+    <a asp-action="AddRoutes">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StartingLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DestinationLocation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Distance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TravelTime)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartingLocation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DestinationLocation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Distance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TravelTime)
+            </td>
+            <td>
+                    <form asp-action="routesEdit" asp-route-id="@item.RouteID" method="get" style="display:inline;">
+                        <button type="submit" class="btn btn-warning">Edit</button>
+                    </form>
+                    
+                    <form asp-action="routes_Details" asp-route-id="@item.RouteID" method="get" style="display:inline;">
+                        <button type="submit" class="btn btn-primary">Details</button>
+                    </form>
+                    
+                    <form asp-action="Delete" asp-route-id="@item.RouteID" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

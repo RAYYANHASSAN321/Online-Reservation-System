@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\busseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\busseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\models\\agegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\models\\agegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|c:\\users\\asp.aptechnk1\\desktop\\online bus ticket reservation system\\project\\identitybasework\\identitybasework\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE97FA-1EEC-4FA8-8852-3C445408023B}|IdentityBaseWork\\IdentityBaseWork.csproj|solutionrelative:identitybasework\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Program.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Program.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:34.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\SD.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\SD.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\SD.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:31.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Routes.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\Routes.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\Routes.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\Routes.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\Routes.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:29.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\ErrorViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:28.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\EmailSender.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\EmailSender.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\EmailSender.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:27.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusSeat.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\BusSeat.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\BusSeat.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\BusSeat.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\BusSeat.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\Bus.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\Bus.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\Bus.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\Bus.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:22.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\Booking.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\Booking.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:17.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\AppUser.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\AppUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:16.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\ApplicationDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgeGroup.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\AgeGroup.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Models\\AgeGroup.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Models\\AgeGroup.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Models\\AgeGroup.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Controllers\\HomeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:06.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Controllers\\EmployeeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:00.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "IdentityBaseWork\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "IdentityBaseWork\\Controllers\\AdminController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:33:55.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

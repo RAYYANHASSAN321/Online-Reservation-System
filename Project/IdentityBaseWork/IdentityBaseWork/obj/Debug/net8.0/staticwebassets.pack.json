@@ -1,0 +1,989 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IdentityBaseWork.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IdentityBaseWork.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\004b610c-a4f9-4f13-b78c-434142e437b3_bus 123.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\004b610c-a4f9-4f13-b78c-434142e437b3_bus 123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\165445e3-1dfc-4a40-a5db-68f9002bd39f_bus 4.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\165445e3-1dfc-4a40-a5db-68f9002bd39f_bus 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\2e712f51-340f-4924-b642-d1838cda7b8b_bus 3.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\2e712f51-340f-4924-b642-d1838cda7b8b_bus 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\51e48a86-0578-4b6f-b9b5-d416af5969eb_bus 3.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\51e48a86-0578-4b6f-b9b5-d416af5969eb_bus 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\8b03b309-ea9c-4d5f-99ed-1c77240b647f_bus 2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\8b03b309-ea9c-4d5f-99ed-1c77240b647f_bus 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\9a90c03a-c5d4-4482-95d5-3538ea0bf7e2_bus 4.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\9a90c03a-c5d4-4482-95d5-3538ea0bf7e2_bus 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\c45613c7-47de-4d4d-a7f1-e5148a3e91f8_bus 2.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\c45613c7-47de-4d4d-a7f1-e5148a3e91f8_bus 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\c80adcfc-97b4-4050-91b9-68e0d7cb467c_bus 4.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\c80adcfc-97b4-4050-91b9-68e0d7cb467c_bus 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\d39bbeb5-ed86-4779-9c7d-e9e10a52817b_bus 16.webp",
+      "PackagePath": "staticwebassets\\Content\\Images\\d39bbeb5-ed86-4779-9c7d-e9e10a52817b_bus 16.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\d7d7c029-a042-4be1-85d8-3edfbaaad0f9_bus 4.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\d7d7c029-a042-4be1-85d8-3edfbaaad0f9_bus 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\f6245a07-c66c-4b16-b444-54e5bbd52eaf_bus 16.webp",
+      "PackagePath": "staticwebassets\\Content\\Images\\f6245a07-c66c-4b16-b444-54e5bbd52eaf_bus 16.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\Content\\Images\\fef64a75-a663-493c-804f-bc67fd0c7921_bus 123.jpg",
+      "PackagePath": "staticwebassets\\Content\\Images\\fef64a75-a663-493c-804f-bc67fd0c7921_bus 123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\dbassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\dbassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\dbassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\font-awesome\\fonts\\fontawesome-webfontba72.eot",
+      "PackagePath": "staticwebassets\\dbassets\\font-awesome\\fonts\\fontawesome-webfontba72.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\font-awesome\\fonts\\fontawesome-webfontba72.svg",
+      "PackagePath": "staticwebassets\\dbassets\\font-awesome\\fonts\\fontawesome-webfontba72.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\font-awesome\\fonts\\fontawesome-webfontba72.ttf",
+      "PackagePath": "staticwebassets\\dbassets\\font-awesome\\fonts\\fontawesome-webfontba72.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\font-awesome\\fonts\\fontawesome-webfontba72.woff",
+      "PackagePath": "staticwebassets\\dbassets\\font-awesome\\fonts\\fontawesome-webfontba72.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\dbassets\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\dbassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\dbassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\dbassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\dbassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\dbassets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\img\\1.png",
+      "PackagePath": "staticwebassets\\dbassets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\img\\2.png",
+      "PackagePath": "staticwebassets\\dbassets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\img\\3.png",
+      "PackagePath": "staticwebassets\\dbassets\\img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\img\\4.png",
+      "PackagePath": "staticwebassets\\dbassets\\img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\img\\find_user.png",
+      "PackagePath": "staticwebassets\\dbassets\\img\\find_user.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\dbassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\dbassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\dbassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\dbassets\\js\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\dbassets\\js\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\dbassets\\js\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\dbassets\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\dbassets\\js\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\dbassets\\js\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\dbassets\\js\\morris\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\dbassets\\js\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\dbassets\\js\\morris\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\webassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\style.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\webassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\webassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\themify-icons\\themify.eot",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\themify-icons\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\themify-icons\\themify.svg",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\themify-icons\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\themify-icons\\themify.ttf",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\themify-icons\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\fonts\\themify-icons\\themify.woff",
+      "PackagePath": "staticwebassets\\webassets\\fonts\\themify-icons\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\1.jfif",
+      "PackagePath": "staticwebassets\\webassets\\images\\1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\2.jfif",
+      "PackagePath": "staticwebassets\\webassets\\images\\2.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\3.jfif",
+      "PackagePath": "staticwebassets\\webassets\\images\\3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\4.jfif",
+      "PackagePath": "staticwebassets\\webassets\\images\\4.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\5.jfif",
+      "PackagePath": "staticwebassets\\webassets\\images\\5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\6.jfif",
+      "PackagePath": "staticwebassets\\webassets\\images\\6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\badshahi-mosque.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\badshahi-mosque.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 1.webp",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 1.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 123.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 123.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 16.webp",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 16.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 19.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 2.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 3.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 4.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 5.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 7.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus 8.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus 8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\bus front.webp",
+      "PackagePath": "staticwebassets\\webassets\\images\\bus front.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\faisal.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\faisal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\hunza.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\hunza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\webassets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\webassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\margalla-hills.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\margalla-hills.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\port_grand_pakistan.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\port_grand_pakistan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\images\\wagah.jpg",
+      "PackagePath": "staticwebassets\\webassets\\images\\wagah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\google_map.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\magnific-popup-options.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\magnific-popup-options.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\main.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\webassets\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\_bootstrap-compass.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\_bootstrap-compass.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\_bootstrap-mincer.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\_bootstrap-mincer.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\_bootstrap-sprockets.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\_bootstrap-sprockets.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_alerts.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_badges.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_button-groups.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_button-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_component-animations.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_component-animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_glyphicons.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_glyphicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_input-groups.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_input-groups.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_labels.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_modals.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_navs.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_normalize.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_normalize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_pager.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_pager.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_panels.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_popovers.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_progress-bars.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_progress-bars.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_responsive-embed.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_responsive-embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_responsive-utilities.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_responsive-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_scaffolding.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_scaffolding.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_theme.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_thumbnails.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_thumbnails.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\_wells.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\_wells.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_alerts.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_center-block.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_center-block.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_hide-text.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_hide-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_labels.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_nav-vertical-align.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_opacity.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_opacity.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_panels.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_panels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_progress-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_reset-filter.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_reset-filter.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_responsive-visibility.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_responsive-visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_tab-focus.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_tab-focus.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_text-overflow.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_text-overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\bootstrap\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp.APTECHNK1\\Desktop\\Online Bus Ticket Reservation System\\Project\\IdentityBaseWork\\IdentityBaseWork\\wwwroot\\webassets\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\webassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IdentityBaseWork.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IdentityBaseWork.props",
+      "PackagePath": "build\\IdentityBaseWork.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IdentityBaseWork.props",
+      "PackagePath": "buildMultiTargeting\\IdentityBaseWork.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IdentityBaseWork.props",
+      "PackagePath": "buildTransitive\\IdentityBaseWork.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

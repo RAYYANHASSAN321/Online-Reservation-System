@@ -1,0 +1,47 @@
+﻿@model IEnumerable<IdentityBaseWork.Models.AgeGroup>
+
+@{
+    ViewData["Title"] = "Age_List";
+    Layout = "~/Views/Shared/_Layoutdb.cshtml";
+}
+
+<h1>Age_List</h1>
+
+<p>
+    <a asp-action="AddAgeGroup">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GroupName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GroupName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discount)
+            </td>
+            <td>
+                    <form asp-action="Age_Details" asp-route-id="@item.GroupId" method="get" style="display:inline;">
+                        <button type="submit" class="btn btn-primary">Details</button>
+                    </form>
+                    
+                    <form asp-action="Age_Delete" asp-route-id="@item.GroupId" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

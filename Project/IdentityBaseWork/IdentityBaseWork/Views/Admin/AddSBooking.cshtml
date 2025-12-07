@@ -1,0 +1,143 @@
+﻿@model IdentityBaseWork.Models.Booking
+
+@{
+    ViewData["Title"] = "AddSBooking";
+    Layout = "~/Views/Shared/_Layoutdb.cshtml";
+}
+
+<h1>AddSBooking</h1>
+
+<h4>Booking</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddSBooking" asp-controller="admin" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="BookingDate" class="control-label"></label>
+                <input asp-for="BookingDate" class="form-control" />
+                <span asp-validation-for="BookingDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TravelDate" class="control-label"></label>
+                <input asp-for="TravelDate" class="form-control" />
+                <span asp-validation-for="TravelDate" class="text-danger"></span>
+            </div>
+            @*             <div class="form-group">
+            <label asp-for="SeatNumber" class="control-label"></label>
+            <input asp-for="SeatNumber" class="form-control" />
+            <span asp-validation-for="SeatNumber" class="text-danger"></span>
+            </div> *@
+            @*            <div class="form-group">
+            <label asp-for="TotalPrice" class="control-label"></label>
+            <input asp-for="TotalPrice" class="form-control" />
+            <span asp-validation-for="TotalPrice" class="text-danger"></span>
+            </div> *@
+            @*        <div class="form-group">
+            <label asp-for="CustomerID" class="control-label"></label>
+            <select asp-for="CustomerID" class ="form-control" asp-items="ViewBag.CustomerID"></select>
+            </div> *@
+            @*     <div class="form-group">
+            <label asp-for="BusID" class="control-label"></label>
+            <select asp-for="BusID" class="form-control" >
+            <option disabled selected>Select Bus </option>
+            @foreach (var item in ViewBag.Bus)
+            {
+            <option value="@item.BusID">@item.BusType</option>
+            }
+
+            </select>
+            </div> *@
+
+
+            <div class="form-group">
+                <label asp-for="BusID" class="control-label"></label>
+                <select asp-for="BusID" class="form-control" id="BusDropdown">
+                    <option disabled selected>Select Bus</option>
+                    @foreach (var bus in ViewBag.Bus)
+                    {
+                        <option value="@bus.BusID">@bus.BusType</option>
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="AgeGroupId" class="control-label"></label>
+                <select asp-for="AgeGroupId" class="form-control">
+                    <option disabled selected>Select Age </option>
+                    @foreach (var item in ViewBag.Age)
+                    {
+                        <option value="@item.GroupId">@item.GroupName</option>
+                    }
+                </select>
+                <span asp-validation-for="AgeGroupId" class="text-danger"></span>
+            </div>
+
+            @*       <div class="form-group">
+            <label asp-for="SeatNumber" class="control-label"></label>
+            <select asp-for="SeatNumber" class="form-control">
+            <option disabled selected>Select Seat </option>
+            @foreach (var item in ViewBag.AvailableSeats)
+            {
+            <option value="@item.BusSeatID">@item.SeatNumber</option>
+            }
+            </select>
+            <span asp-validation-for="SeatNumber" class="text-danger"></span>
+            </div> *@
+
+
+            <div class="form-group">
+                <label asp-for="SeatNumber" class="control-label"></label>
+                <select asp-for="SeatNumber" class="form-control" id="SeatDropdown">
+                    <option disabled selected>Select Seat</option>
+                    <!-- Options will be dynamically added here -->
+                </select>
+                <span asp-validation-for="SeatNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="BookingList">Back to List</a>
+</div>
+
+
+<!-- Place your JavaScript at the bottom -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#BusDropdown").change(function () {
+            var busId = $(this).val();
+            if (busId) {
+                $.ajax({
+                    url: '/Admin/GetAvailableSeats',
+                    type: 'GET',
+                    data: { busId: busId },
+                    success: function (data) {
+                        var seatDropdown = $("#SeatDropdown");
+                        seatDropdown.empty(); // Clear existing options
+                        seatDropdown.append('<option disabled selected>Select Seat</option>'); // Add default option
+
+                        // Check if data is valid and populate the dropdown
+                        if (data && data.length > 0) {
+                            $.each(data, function (index, seat) {
+                                seatDropdown.append('<option value="' + seat.busSeatID + '">' + seat.seatNumber + '</option>');
+                            });
+                        } else {
+                            seatDropdown.append('<option disabled>No Seats Available</option>');
+                        }
+                    },
+                    error: function () {
+                        alert('Failed to fetch seats. Please try again.');
+                    }
+                });
+            } else {
+                alert('Please select a bus.');
+            }
+        });
+    });
+</script>
