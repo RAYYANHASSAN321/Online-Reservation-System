@@ -65,18 +65,6 @@ git clone <repo-url>
 
 4. Run the project using **IIS Express** or your preferred server
 
----
-
-## 🎬 Demo
-
-*(Replace with actual screenshots of your app)*
-
-| Homepage                          | Booking Page                        | Admin Panel                     |
-| --------------------------------- | ----------------------------------- | ------------------------------- |
-| ![homepage](screenshots/home.png) | ![booking](screenshots/booking.png) | ![admin](screenshots/admin.png) |
-
----
-
 ## 📖 Usage
 
 * Register as a user to book tickets
@@ -113,5 +101,3 @@ SRCTravelAgency/
 
 This project is **open-source** and licensed under the **MIT License**.
 
-
-Kya main PDF version bhi bana doon?
